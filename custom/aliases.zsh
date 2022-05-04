@@ -185,3 +185,4 @@ alias composer="php /usr/local/bin/composer"
 alias i='itermocil'
 alias archive-commit='. $HOME/Sites/dotfiles/archive-commit.sh'
 alias cat='bat'
+alias resource='. ~/.zshrc'
